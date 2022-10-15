@@ -1,6 +1,6 @@
 import "./current-weather.css";
 
-const CurrentWeather = ({ currentData, forecastData }) => {
+const CurrentWeather = ({ currentData }) => {
 
     console.log(currentData)
     return (
